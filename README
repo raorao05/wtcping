@@ -1,0 +1,5 @@
+基于tcp协议的ping协议
+
+采用py2exe打包成windows下的exe执行包
+
+目前支持 win7 64位
